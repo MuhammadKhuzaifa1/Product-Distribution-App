@@ -1,16 +1,6 @@
 # product_distribution
 
-A new Flutter project.
+Product Distribution app 
 
-## Getting Started
+![Product Distribution app](https://github.com/brothercodes/Product_Distribution/assets/124895016/6f7d242a-adde-462d-932f-1b4c397f78cc)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
